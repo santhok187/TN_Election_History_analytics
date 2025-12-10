@@ -18,3 +18,11 @@ git branch -M main
 git remote add origin <REMOTE_URL>
 git push -u origin main
 ```
+
+
+ingesting data from source to ADLS GEN2 (to automate ADF)
+Loading the data from landing folder (RAW\elections\) to bronze (Curated\elections)
+Transformaing the data into single silver layer (analytics)
+Visualize it using the PowerBI
+
+Dataset courtesy- Kaggle (https://www.kaggle.com/datasets/srinrealyf/1971-2021-tamilnadu-legislative-election-dataset)
